@@ -9,6 +9,8 @@ body {
     line-height: 1.4;
 }
 
+/* It is the CSS of the project */
+
 .header {
     display: flex;
     align-items: center;
